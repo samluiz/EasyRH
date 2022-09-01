@@ -10,3 +10,7 @@ Endpoints:
 - Autenticação admin/user
 - Validação do arquivo do currículo
 - UI
+
+# Documentação provisória:
+
+https://documenter.getpostman.com/view/21989935/VUxPvnvM
